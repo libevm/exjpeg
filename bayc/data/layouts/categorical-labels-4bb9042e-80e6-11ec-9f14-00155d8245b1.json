@@ -1,0 +1,21 @@
+{
+    "positions": [
+        [
+            -1.0,
+            -0.49057
+        ],
+        [
+            0.07692,
+            -0.49057
+        ],
+        [
+            0.88462,
+            -0.49057
+        ]
+    ],
+    "labels": [
+        "Oslo Museum",
+        "Norsk Folkemuseum",
+        "Norsk Teknisk Museum"
+    ]
+}
